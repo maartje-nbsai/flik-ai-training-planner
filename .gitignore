@@ -1,0 +1,4 @@
+.env
+scraped_pages.json
+__pycache__/
+*.pyc

@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install -r requirements.txt)",
+      "Bash(where python)",
+      "Bash(where python3)",
+      "Bash(where py)",
+      "Read(//c/Users/MaartjeKeulen/AppData/Local/Programs/**)",
+      "Bash(/c/Users/MaartjeKeulen/AppData/Local/Python/bin/python3 --version)",
+      "Bash(/c/Users/MaartjeKeulen/AppData/Local/Python/bin/python3 -m pip --version)",
+      "Bash(/c/Users/MaartjeKeulen/AppData/Local/Python/bin/python3 -m pip install -r requirements.txt)",
+      "Bash(py -0)",
+      "Bash(/c/Users/MaartjeKeulen/AppData/Local/Python/bin/python3 -m pip install \"lxml\" --find-links https://lxml.de/files/)",
+      "Bash(/c/Users/MaartjeKeulen/AppData/Local/Python/bin/python3 -m pip install crawl4ai --no-deps)",
+      "Bash(/c/Users/MaartjeKeulen/AppData/Local/Python/bin/python3 -m pip install pinecone openai python-dotenv playwright aiofiles aiohttp aiosqlite litellm pillow patchright beautifulsoup4 tf-playwright-stealth xxhash rank-bm25 snowballstemmer pydantic pyOpenSSL psutil PyYAML nltk rich cssselect fake-useragent click)",
+      "Bash(/c/Users/MaartjeKeulen/AppData/Local/Python/bin/python3 -m pip install chardet humanize lark shapely snowballstemmer==2.2.0)",
+      "Bash(/c/Users/MaartjeKeulen/AppData/Local/Python/bin/python3 -m pip install alphashape brotli)",
+      "Bash(/c/Users/MaartjeKeulen/AppData/Local/Python/bin/python3 -m playwright install chromium)",
+      "Bash(/c/Users/MaartjeKeulen/AppData/Local/Python/bin/python3 -c \"from crawl4ai import AsyncWebCrawler; from pinecone import Pinecone; from openai import OpenAI; print\\(''All imports OK''\\)\")",
+      "Bash(/c/Users/MaartjeKeulen/AppData/Local/Python/bin/python3 scraper.py)",
+      "Bash(PYTHONIOENCODING=utf-8 PYTHONUTF8=1 /c/Users/MaartjeKeulen/AppData/Local/Python/bin/python3 scraper.py)",
+      "Bash(PYTHONIOENCODING=utf-8 PYTHONUTF8=1 /c/Users/MaartjeKeulen/AppData/Local/Python/bin/python3 ingest.py)",
+      "Bash(PYTHONUTF8=1 /c/Users/MaartjeKeulen/AppData/Local/Python/bin/python3 -c \":*)",
+      "Bash(while true)",
+      "Bash(do tail -3 \"C:\\\\Users\\\\MAARTJ~2\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-MaartjeKeulen-rag-demo\\\\tasks\\\\b2cmjn4s8.output\")",
+      "Bash(break)",
+      "Bash(done)"
+    ]
+  }
+}
