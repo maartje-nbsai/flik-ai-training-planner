@@ -5,7 +5,8 @@
 Flik Ultimate (flikulti.com) is a platform with hundreds of training materials for Ultimate Frisbee coaches and players — covering tactics, drills, practice sessions, video tutorials, and strength & conditioning.
 
 **Your team:**
-- **Maartje** is the trainer and your point of contact. She can give you access to the Flik platform as a team member, so you can explore all the available content at https://www.flikulti.com/
+- **Maartje** is the trainer and your point of contact. She can give you access to the Flik platform as a team member, so you can explore all the available content. Follow this link to be added to the team and get access: https://www.flikulti.com/team?code=092dfa1e14db869049a251e7
+
 - **The prep work is done:** Maartje has already scraped, cleaned, and loaded all Flik training materials into a vector store. You don't need to build that part. See `TECHNICAL_DETAILS.md` for how to access and query it.
 
 ---
