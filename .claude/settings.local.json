@@ -24,7 +24,9 @@
       "Bash(while true)",
       "Bash(do tail -3 \"C:\\\\Users\\\\MAARTJ~2\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-MaartjeKeulen-rag-demo\\\\tasks\\\\b2cmjn4s8.output\")",
       "Bash(break)",
-      "Bash(done)"
+      "Bash(done)",
+      "Bash(py -3 build_from_db.py)",
+      "Bash(py -3 ingest.py)"
     ]
   }
 }
