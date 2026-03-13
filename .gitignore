@@ -1,4 +1,6 @@
 .env
 scraped_pages.json
+wpmm_posts.csv
+wpmm_postmeta.csv
 __pycache__/
 *.pyc
